@@ -20,14 +20,14 @@ async def auth_token(client):
     await client.post("/register", json={
         "username": "testuser",
         "full_name": "Test User",
-        "password": "Qwerty1",
+        "password": "Qwerty@11",
         "role": "admin"
     })
 
     # Login user
     res = await client.post("/token", json={
         "username": "testuser",
-        "password": "Qwerty1"
+        "password": "Qwerty@11"
     })
     print(res)
 
