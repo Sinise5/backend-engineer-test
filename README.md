@@ -21,7 +21,7 @@ Proyek ini merupakan aplikasi backend sederhana yang dibuat menggunakan **FastAP
 ### 1. Clone Proyek
 
 ```bash
-git clone https://github.com/nama-kamu/backend-engineer-test.git
+git clone https://github.com/Sinise5/backend-engineer-test.git
 cd backend-engineer-test
 ```
 
