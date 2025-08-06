@@ -131,6 +131,6 @@ Pull request dan feedback sangat dipersilakan. Silakan fork dan buka PR!
 
 ## 🧑‍💻 Dibuat oleh
 
-Backend Engineer - [Nama Kamu]
+Backend Engineer - Sinise
 
 ---
