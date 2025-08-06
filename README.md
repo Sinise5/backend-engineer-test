@@ -21,7 +21,7 @@ Proyek ini merupakan aplikasi backend sederhana yang dibuat menggunakan **FastAP
 ### 1. Clone Proyek
 
 ```bash
-git clone https://github.com/nama-kamu/backend-engineer-test.git
+git clone https://github.com/Sinise5/backend-engineer-test.git
 cd backend-engineer-test
 ```
 
@@ -116,10 +116,10 @@ tests/
 A: Username sudah ada di database. Gunakan username lain saat register.
 
 ### Q: Gagal saat login?
-A: Pastikan username dan password sesuai dengan yang sudah diregister. Password minimal 8 karakter.
+A: Pastikan username dan password sesuai dengan yang sudah diregister. Password minimal 8 karakter. dan `SECRET_KEY` di `.env` sesuai 
 
 ### Q: Tidak bisa konek ke database?
-A: Pastikan PostgreSQL aktif dan `DATABASE_URL` di `.env` sesuai.
+A: Pastikan PostgreSQL aktif dan `DB_URL` di `.env` sesuai.
 
 ---
 
@@ -131,6 +131,6 @@ Pull request dan feedback sangat dipersilakan. Silakan fork dan buka PR!
 
 ## 🧑‍💻 Dibuat oleh
 
-Backend Engineer - [Nama Kamu]
+Backend Engineer - Sinise
 
 ---
