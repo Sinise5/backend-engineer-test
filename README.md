@@ -116,10 +116,10 @@ tests/
 A: Username sudah ada di database. Gunakan username lain saat register.
 
 ### Q: Gagal saat login?
-A: Pastikan username dan password sesuai dengan yang sudah diregister. Password minimal 8 karakter.
+A: Pastikan username dan password sesuai dengan yang sudah diregister. Password minimal 8 karakter. dan `SECRET_KEY` di `.env` sesuai 
 
 ### Q: Tidak bisa konek ke database?
-A: Pastikan PostgreSQL aktif dan `DATABASE_URL` di `.env` sesuai.
+A: Pastikan PostgreSQL aktif dan `DB_URL` di `.env` sesuai.
 
 ---
 
